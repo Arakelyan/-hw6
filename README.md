@@ -13,3 +13,7 @@
 # ![](https://github.com/Arakelyan/-hw6/blob/master/%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BE%D0%BD.jpg)
 # ![](https://github.com/Arakelyan/-hw6/blob/master/%D0%BE%D0%B1%D0%B4%D0%B5%D0%BA%D1%82%D1%81.jpg)
 ### По данным на скриншоте можно увидеть то , что с данными глаголами могут употребляться слова: word, course, suject и другие слова выделенные белым цветом. Слово career может сочетаться со словом Choose , слово module используется только с глаголом select
+# Задание 3 
+Проведя небольшой анализ в SketchEngine и GoogleNgramViewer я проверяла слово Lion и удалось выяснить следующее точки соприкосновения: В 1900 году была высшая точка использования данного слова а дальше она идет на спад. В ином же случае видно что испоьзование слово lion было так же популярно и в 1900 году. вы можете наблюдать за этим исследованием (прикрепляю файлы ниже)
+# ![](https://github.com/Arakelyan/-hw6/blob/master/%D0%BB%D0%B8%D0%BE%D0%BD1.jpg)
+# ![](https://github.com/Arakelyan/-hw6/blob/master/%D0%BB%D0%B8%D0%BE%D0%BD.jpg)
