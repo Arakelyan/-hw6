@@ -6,3 +6,4 @@
 # 3 пункт 
 # ![](https://github.com/Arakelyan/-hw6/blob/master/6.3.jpg)
 2 часть
+# ![](https://github.com/Arakelyan/-hw6/blob/master/%D0%BA%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%BE%D0%BD.jpg)
